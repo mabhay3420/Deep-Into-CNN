@@ -1,11 +1,12 @@
 ## Datasets
 
-### Wine Quality : Recruitment 
+### Diabetes Prediction : Recruitment 
 
+This is a Binary Classification task.
 Download the csv file and Use only python and basic libraries such as numpy,pandas,matplotlib to implement the following. 
 
  	1. Split the data into train(80%) and test(20%) data randomly.
- 	2. Use "logistic regression"(Any traditional ML method is fine but do not use Neural networks) for prediction.
+ 	2. Use "logistic regression" and "gradient descent" for prediction.
 	3. Train : Print intermediate training loss and correctness.
 		- (Optionally plot training loss and correctness.)
 	4. Report accuracy on test data.
