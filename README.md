@@ -8,13 +8,15 @@ Contains material relevant to "Deep Into CNN" Project.
 
 #### Readings
 1. Local Setup (Use Conda : recommended)  
-https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html
+https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html  
 https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html#installation  
-2. (Optional: Basic Python and libraries) https://duchesnay.github.io/pystatsml/index.html#scientific-python  
-3. ( Optional : For those with very basic ml knowledge: Only 2.1-2.7) https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+2. (Optional: Basic Python and libraries)  
+https://duchesnay.github.io/pystatsml/index.html#scientific-python  
+3. ( Optional : For those with very basic ml knowledge: Only 2.1-2.7)  
+https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 4. Linear Regression:  
  https://medium.com/analytics-vidhya/simple-linear-regression-with-example-using-numpy-e7b984f0d15e  
-5. Logistic Regression:
+5. Logistic Regression:  
 https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc  
 
 #### Practice Material
