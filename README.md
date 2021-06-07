@@ -39,6 +39,33 @@ https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log
 https://pytorch.org/tutorials/beginner/basics/intro.html
 6. Optional guide:  
 http://neuralnetworksanddeeplearning.com/chap1.html
+7. Pytorch Autograd:  
+https://www.youtube.com/watch?v=MswxJw-8PvE&list=PL-bzqKhHrboYIKgBwoqzl6-eyCHP3aBYs&index=4
 
 #### Practice Material
+
 Find in [PyTorch](W2-3/PyTorch) : W2-3.
+
+### Hackathon 1
+June 1 - June 30 :  
+https://www.kaggle.com/c/tabular-playground-series-jun-2021
+### Week 2-3: Convolutional Neural Networks
+
+#### Readings
+
+1. These will give you a good Intuition:  
+https://www.youtube.com/watch?v=py5byOOHZM8   
+and  
+https://www.youtube.com/watch?v=BFdMrDOx_CM  
+Also, do check this blog out:  
+https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53 
+2. Highly Recommended:    
+https://cs231n.github.io/convolutional-networks/ 
+3. (L2-L11 : Enough for Understanding Implementation Details):  
+https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+4. Pytorch official guide (Try after doing [W3 exercises](W3)):  
+https://pytorch.org/tutorials/beginner/basics/intro.html
+
+#### Practice Material
+
+Find in [W3 Folder](W3)
