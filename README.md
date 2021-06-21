@@ -49,6 +49,8 @@ Find in [PyTorch](W2-3/PyTorch) : W2-3.
 ### Hackathon 1
 June 1 - June 30 :  
 https://www.kaggle.com/c/tabular-playground-series-jun-2021
+
+Find Sample Submission [Here](W2-3/Hackathon1.ipynb)
 ### Week 2-3: Convolutional Neural Networks
 
 #### Readings
@@ -69,3 +71,22 @@ https://pytorch.org/tutorials/beginner/basics/intro.html
 #### Practice Material
 
 Find in [W3 Folder](W3)
+
+### Paper 1 Implementation
+Choose Any 1 of following:
+1. AlexNet:  
+https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+2. VGG:  
+https://arxiv.org/pdf/1409.1556v6.pdf
+3. Inception(GoogLeNet)*:  
+https://arxiv.org/pdf/1409.4842v1.pdf
+4. Xception*:  
+https://openaccess.thecvf.com/content_cvpr_2017/papers/Chollet_Xception_Deep_Learning_CVPR_2017_paper.pdf
+5. ResNet*:  
+https://arxiv.org/pdf/1512.03385v1.pdf  
+
+(* Recommended)
+
+### Hackathon 2
+Based on following Dataset:  
+https://www.kaggle.com/gpiosenka/100-bird-species
