@@ -87,6 +87,14 @@ https://arxiv.org/pdf/1512.03385v1.pdf
 
 (* Recommended)
 
+#### Supplement Material
+1. Inception Module:  
+https://towardsdatascience.com/deep-learning-understand-the-inception-module-56146866e652
+2. Separable Convolutions:  
+https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
+3. Implementation of Xception : Use `groups` argument of conv2d for separating channels (i.e. for Depthwise Separable Convolution ) :
+https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html
+
 ### Hackathon 2
 Based on following Dataset:  
 https://www.kaggle.com/gpiosenka/100-bird-species
