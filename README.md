@@ -102,6 +102,8 @@ https://www.kaggle.com/gpiosenka/100-bird-species
 
 ### Week 4-5: Optimization
 
+#### Readings
+
 1. Visualizing MNIST (Casual Reading, Enjoy Animations):   
 http://colah.github.io/posts/2014-10-Visualizing-MNIST/
 
