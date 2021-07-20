@@ -100,6 +100,8 @@ https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html
 Based on following Dataset:  
 https://www.kaggle.com/gpiosenka/100-bird-species
 
+Find Sample Submission in [W6 Folder](W6/Hackathon2_xception.ipynb)
+
 ### Week 4-5: Optimization
 
 1. Visualizing MNIST (Casual Reading, Enjoy Animations):   
@@ -122,3 +124,25 @@ http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_netwo
 
 7. Complete Reference(Videos):  
 https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc
+
+### Week 6: VAE and GANs
+
+#### Readings
+1. Deep Generative Modelling(Must Watch):  
+https://www.youtube.com/watch?v=BUNl0To1IVw
+
+2. AutoEncoders:  
+https://www.jeremyjordan.me/autoencoders/
+
+3. Variational AutoEncoders:  
+https://www.jeremyjordan.me/variational-autoencoders/
+
+4. GAN Intuition:  
+https://www.youtube.com/watch?v=Sw9r8CL98N0
+
+5. Simple GAN Implementation:  
+https://towardsdatascience.com/build-a-super-simple-gan-in-pytorch-54ba349920e4
+
+#### Practice Material
+
+Find in [W6 Folder](W6)
